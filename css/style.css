@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Source+Sans+Pro&display=swap');
+.navbar{
+    height: 100px;
+}
+.navbar-brand{
+    margin: 35px 210px 35px 250px;
+}
+.nav-link{
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    color: #506a85;
+    margin: 10px;
+}
+body{
+    box-sizing: border-box;
+}
+.header{
+    height: 470px;
+    background-image: url("../img/bg.png");
+    background-size: cover;
+}
+.description{
+    text-align: center;
+}
+.description h1{
+    color: white;
+    font-size: 54px;
+    font-family: 'Lato', sans-serif;
+    font-weight: bold;
+    padding: 100px 100px 20px 100px;  
+}
+.description p{
+    color: white;
+    font-size: 24px;
+    font-family: 'Lato', sans-serif;
+}
+.description button{
+    background-color: #00bb9b;
+    color: white;
+    font-size: 18px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.col{
+    margin: 20px 10px 10px 0px;
+
+}
+.col-3{
+    margin: 10px 0px 0px 0px;
+    font-size: 12px;
+}
+.footer{
+    box-sizing: border-box;
+}
